@@ -51,7 +51,7 @@ Each assessment domain includes planning documentation, technical control testin
 | 10 | Configuration & Change Management | [10-configuration-and-change-management](10-configuration-and-change-management/README.md) |
 | 11 | Business Continuity & Disaster Recovery | [11-business-continuity-and-disaster-recovery](11-business-continuity-and-disaster-recovery/README.md) |
 | 12 | Physical & Environmental Security | [12-physical-and-environmental-security](12-physical-and-environmental-security/README.md) |
-| 13 | Cloud Security | [13-cloud-security](13-cloud-security/) |
+| 13 | Cloud Security | [13-cloud-security](13-cloud-security/README.md) |
 | 14 | Application Security | [14-application-security](14-application-security/) |
 | 15 | Privacy & Regulatory Compliance | [15-privacy-and-regulatory-compliance](15-privacy-and-regulatory-compliance/) |
 | 16 | Incident Response & Crisis Management | [16-incident-response-and-crisis-management](16-incident-response-and-crisis-management/) |
