@@ -56,7 +56,7 @@ Each assessment domain includes planning documentation, technical control testin
 | 15 | Privacy & Regulatory Compliance | [15-privacy-and-regulatory-compliance](15-privacy-and-regulatory-compliance/README.md) |
 | 16 | Incident Response & Crisis Management | [16-incident-response-and-crisis-management](16-incident-response-and-crisis-management/README.md) |
 | 17 | Enterprise Architecture & Network Security | [17-enterprise-architecture-and-network-security](17-enterprise-architecture-and-network-security/README.md) |
-| 18 | Security Metrics & Governance | [18-security-metrics-and-governance](18-security-metrics-and-governance/) |
+| 18 | Security Metrics & Governance | [18-security-metrics-and-governance](18-security-metrics-and-governance/README.md) |
 | 19 | AI Governance & Emerging Technology | [19-ai-governance-and-emerging-technology](19-ai-governance-and-emerging-technology/) |
 
 ---
