@@ -40,7 +40,7 @@ Each assessment domain includes planning documentation, technical control testin
 |:---:|----------------------------|--------------------------------|
 | 00 | Start Here | [00-start-here](00-start-here/00-README.md) |
 | 01 | Client Engagement | [01-client-engagement](01-client-engagement/00-README.md) |
-| 02 | Assessment Operations | [02-assessment-operations](02-assessment-operations/) |
+| 02 | Assessment Operations | [02-assessment-operations](02-assessment-operations/00-README.md) |
 | 03 | Domain Assessments | [03-domain-assessments](03-domain-assessments/) |
 | 04 | Governance Reporting | [04-governance-reporting](04-governance-reporting/) |
 | 05 | Enterprise Risk Management | [05-enterprise-risk-management](05-enterprise-risk-management/) |
