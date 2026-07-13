@@ -94,7 +94,7 @@ Each workpaper includes:
 |---|---|
 | Governance Domain Home | [Return to Governance Assessment](../README.md) |
 | Portfolio Home | [Enterprise GRC Assessment Portfolio](../../README.md) |
-| Previous Phase | [02 – Assessment Operations](https://github.com/GRCStephenWinfield/enterprise-hipaa-grc-assessment-playbook/blob/main/02-assessment-operations/00-README.md) |
+| Previous Phase | [02 – Assessment Operations](02-assessment-operations/00-README.md) |
 | Next Phase | [04 – Governance Reporting](../../04-governance-reporting/README.md) |
 
 ---
