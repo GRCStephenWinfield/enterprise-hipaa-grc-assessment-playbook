@@ -163,7 +163,7 @@ This portfolio aligns with industry-recognized guidance including:
 | Destination | Link |
 |-------------|------|
 | 🏠 Portfolio Home | [Enterprise GRC Assessment Portfolio](../README.md) |
-| ➡ Next | [01 – Client Engagement](../01-client-engagement/README.md) |
+| ➡ Next | [01 – Client Engagement](01-client-engagement) |
 
 ---
 
