@@ -1,128 +1,188 @@
-# Phase 1 — Orientation
+# Start Here
 
-# Welcome to the Enterprise HIPAA Cybersecurity Assessment Playbook
+> **Enterprise Cybersecurity Governance, Risk & Compliance (GRC) Assessment Portfolio**
 
----
+Welcome to the Enterprise Cybersecurity Governance, Risk & Compliance (GRC) Assessment Portfolio.
 
-| Field | Value |
-|--------|-------|
-| Assessment Phase | Phase 1 – Orientation |
-| Folder | 00-start-here |
-| Owner | GRC Assessment Team |
-| Version | 2.0 |
-| Status | Approved |
-| Last Updated | YYYY-MM-DD |
+This repository demonstrates a complete enterprise cybersecurity assessment methodology designed for healthcare, financial services, technology, government, and other regulated industries.
+
+The portfolio contains the documentation, templates, workpapers, executive reporting, and governance artifacts used throughout a full enterprise cybersecurity assessment engagement.
 
 ---
 
 # Purpose
 
-This folder prepares the assessment team before any work begins.
+This repository demonstrates practical experience performing enterprise cybersecurity assessments using recognized cybersecurity and governance frameworks.
 
-It explains how the playbook is organized, how documents are numbered, how assessments flow from one phase to the next, and what deliverables are expected throughout the engagement.
+The assessment methodology includes:
 
-Think of this folder as the assessor's orientation guide.
-
-No evidence is collected during this phase.
-
-No interviews are performed.
-
-Instead, the assessor learns **how** the assessment methodology works.
-
----
-
-# Objectives
-
-Upon completion of this phase, the assessor will understand:
-
-- Repository organization
-- Assessment lifecycle
-- Assessment workflow
-- Document numbering
-- Framework coverage
-- Deliverables produced
-- Repository navigation
-- Assessment status tracking
+- Client Engagement
+- Assessment Planning
+- Governance
+- Enterprise Risk Management
+- Asset Management
+- Identity & Access Management
+- Security Operations
+- Vulnerability Management
+- Configuration Management
+- Business Continuity
+- Physical Security
+- Cloud Security
+- Application Security
+- Privacy
+- Incident Response
+- Enterprise Architecture
+- Executive Governance
+- AI Governance
 
 ---
 
-# Prerequisites
+# Getting Started
 
-None.
+Review the following documents in order.
 
-This is always the first folder opened during a new engagement.
-
----
-
-# Inputs
-
-No client information is required.
-
----
-
-# Activities
-
-Complete the following documents in order.
-
-| Step | Document |
-|------|----------|
-| 00.01 | How to Use This Playbook |
-| 00.02 | Master Assessment Workflow |
-| 00.03 | Repository Navigation Guide |
-| 00.04 | Assessment Lifecycle |
-| 00.05 | Document Numbering Standard |
-| 00.06 | Document Status & Versioning Standard |
-| 00.07 | Deliverables Matrix |
-| 00.08 | Framework Coverage Summary |
-| 00.09 | Assessment Status Dashboard |
-| 00.10 | Portfolio Disclaimer |
+| Document | Description |
+|----------|-------------|
+| [How to Use this Playbook](00.01-how-to-use-this-playbook.md) | Introduction to the assessment methodology and repository. |
+| [Master Assessment Workflow](00.02-master-assessment-workflow.md) | End-to-end assessment lifecycle from kickoff through executive reporting. |
+| [Repository Navigation Guide](00.03-repository-navigation-guide.md) | Explains the repository structure and document organization. |
+| [Assessment Lifecycle](00.04-assessment-lifecycle.md) | Describes each phase of the cybersecurity assessment. |
+| [Document Numbering Standard](00.05-document-numbering-standard.md) | Explains naming conventions used throughout the repository. |
+| [Repository Document Standards](00.06-repository-document-standards.md) | Formatting, templates, and documentation standards. |
+| [Deliverables Matrix](00.07-deliverables-matrix.md) | Complete inventory of all assessment deliverables. |
+| [Framework Coverage Summary](00.08-framework-coverage-summary.md) | Maps assessment artifacts to cybersecurity frameworks. |
+| [Assessment Status Dashboard](00.09-assessment-status-dashboard.md) | Executive overview of portfolio progress and deliverables. |
+| [Playbook Disclaimer & Usage](00.10-playbook-disclaimer-and-usage.md) | Repository disclaimer, assumptions, and intended use. |
 
 ---
 
-# Outputs
+# Recommended Review Order
 
-After completing this phase the assessor will understand:
+Review the repository in the following sequence:
 
-- Assessment methodology
-- Repository structure
-- Assessment sequence
-- Document relationships
-- Expected deliverables
-
----
-
-# Completion Criteria
-
-This phase is complete when all Orientation documents have been reviewed.
+1. Start Here
+2. Client Engagement
+3. Assessment Operations
+4. Domain Assessments
+5. Governance Reporting
+6. Executive Deliverables
 
 ---
 
-# Estimated Effort
+# Assessment Lifecycle
 
-Approximately **30–45 minutes**.
+```text
+Client Engagement
+        │
+        ▼
+Assessment Planning
+        │
+        ▼
+Evidence Collection
+        │
+        ▼
+Stakeholder Interviews
+        │
+        ▼
+Control Testing
+        │
+        ▼
+Workpapers
+        │
+        ▼
+Findings
+        │
+        ▼
+Risk Register
+        │
+        ▼
+Recommendations
+        │
+        ▼
+POA&M
+        │
+        ▼
+Executive Reporting
+```
 
 ---
 
-# Interviews Required
+# Repository Structure
 
-None.
-
----
-
-# Evidence Required
-
-None.
-
----
-
-# Deliverables Produced
-
-No client deliverables are produced during this phase.
+| Folder | Description |
+|----------|-------------|
+| 00-start-here | Repository orientation and assessment methodology |
+| 01-client-engagement | Client onboarding and engagement planning |
+| 02-assessment-operations | Assessment execution and project management |
+| 03-domain-assessments | Domain assessment methodology |
+| 04-governance-reporting | Executive reporting and governance deliverables |
+| 05-19 | Individual cybersecurity assessment domains |
 
 ---
 
-# Next Step
+# Portfolio Highlights
 
-Proceed to:
+The repository includes:
 
-**00.01 – How to Use This Playbook**
+- 19 Assessment Domains
+- 285 Technical Workpapers
+- Executive Dashboards
+- Executive Scorecards
+- Findings Registers
+- Risk Registers
+- Recommendations Registers
+- Plans of Action & Milestones (POA&M)
+- Control Matrices
+- Evidence Traceability Matrices
+- Assessment Methodologies
+- Executive Reporting
+
+---
+
+# Primary Cybersecurity Frameworks
+
+This portfolio aligns with industry-recognized guidance including:
+
+- NIST Cybersecurity Framework (CSF) 2.0
+- NIST SP 800-53 Rev. 5
+- CIS Controls v8
+- HIPAA Security Rule
+- HITRUST CSF
+- PCI DSS v4.0.1
+- ISO/IEC 27001
+- SOC 2 Trust Services Criteria
+- CMMC 2.0
+- FedRAMP
+- NIST AI Risk Management Framework
+- ISO/IEC 42001
+
+---
+
+# Navigation
+
+| Destination | Link |
+|-------------|------|
+| 🏠 Portfolio Home | [Enterprise GRC Assessment Portfolio](../README.md) |
+| ➡ Next | [01 – Client Engagement](../01-client-engagement/README.md) |
+
+---
+
+# Portfolio Summary
+
+| Metric | Status |
+|----------|--------|
+| Assessment Domains | ✅ 19 |
+| Technical Workpapers | ✅ 285 |
+| Executive Dashboards | ✅ 19 |
+| Executive Scorecards | ✅ 19 |
+| Risk Registers | ✅ Complete |
+| Findings Registers | ✅ Complete |
+| Control Matrices | ✅ Complete |
+| Evidence Traceability | ✅ Complete |
+| AI Governance Coverage | ✅ Included |
+
+---
+
+**Enterprise Cybersecurity Governance, Risk & Compliance Assessment Portfolio**
+
+**Start Here**
