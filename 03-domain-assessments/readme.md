@@ -1,111 +1,55 @@
-# 03 – Domain Assessments
+# 03 – Governance Domain Assessment
 
-> **Enterprise Cybersecurity Governance, Risk & Compliance (GRC) Assessment Portfolio**
+> **Enterprise Cybersecurity Governance, Risk & Compliance Assessment Portfolio**
 
-The Domain Assessments section contains the detailed cybersecurity control assessments performed across the organization.
-
-Each domain is assessed using a standardized methodology that includes planning, evidence collection, stakeholder interviews, technical testing, risk analysis, executive reporting, and continuous improvement.
+This section contains the Governance domain assessment, including its overview, control matrix, evidence requirements, stakeholder interview questionnaire, and detailed control-testing workpapers.
 
 ---
 
-# Purpose
+## Governance Planning Documents
 
-The purpose of this section is to demonstrate a repeatable enterprise assessment methodology across multiple cybersecurity domains.
-
-Each assessment domain includes:
-
-- Planning Documents
-- Evidence Requests
-- Interview Guides
-- Technical Workpapers
-- Findings
-- Risk Register
-- Recommendations
-- Executive Reporting
+| Document | Description |
+|---|---|
+| [Governance Domain Overview](03.00-governance-domain-overview.md) | Introduces the Governance domain, objectives, scope, and methodology. |
+| [Governance Control Matrix](03.01-governance-control-matrix.md) | Maps governance controls to applicable cybersecurity frameworks. |
+| [Governance Evidence Request List](03.02-governance-evidence-request-list.md) | Identifies the evidence required to assess governance controls. |
+| [Governance Interview Questionnaire](03.03-governance-interview-questionnaire.md) | Provides interview questions for executives, governance leaders, and control owners. |
 
 ---
 
-# Assessment Methodology
+## Governance Technical Workpapers
 
-```text
-Planning
+The detailed Governance control-testing documents are maintained in a dedicated subfolder.
 
-      │
-
-      ▼
-
-Evidence Collection
-
-      │
-
-      ▼
-
-Stakeholder Interviews
-
-      │
-
-      ▼
-
-Technical Workpapers
-
-      │
-
-      ▼
-
-Risk Assessment
-
-      │
-
-      ▼
-
-Executive Reporting
-```
+| Resource | Description |
+|---|---|
+| [Governance Workpaper Index](governance-workpapers/README.md) | Opens the navigation page containing direct links to all Governance workpapers. |
+| [Governance Workpapers Folder](governance-workpapers/) | Opens the complete workpaper directory. |
 
 ---
 
-# Assessment Domains
+## Recommended Review Order
 
-| Domain | Description | Open |
-|---------|-------------|------|
-| Governance | Executive governance, policies, oversight and accountability | [Open Governance Assessment](governance-workpapers/README.md) |
-| Enterprise Risk Management | Enterprise cyber risk | Coming Soon |
-| Asset Management | Hardware, software and information assets | Coming Soon |
-| Identity & Access Management | IAM controls | Coming Soon |
-| Security Monitoring | SIEM, SOC and detection | Coming Soon |
-| Vulnerability Management | Vulnerability lifecycle | Coming Soon |
-| Configuration Management | Secure configurations | Coming Soon |
-| Business Continuity | BCP & DR | Coming Soon |
-| Physical Security | Facility protection | Coming Soon |
-| Cloud Security | Cloud governance | Coming Soon |
-| Application Security | Secure SDLC | Coming Soon |
-| Privacy | HIPAA & Privacy | Coming Soon |
-| Incident Response | Cyber response | Coming Soon |
-| Enterprise Architecture | Network security | Coming Soon |
-| Security Metrics | KPIs & Governance | Coming Soon |
-| AI Governance | Responsible AI | Coming Soon |
+1. Governance Domain Overview
+2. Governance Control Matrix
+3. Governance Evidence Request List
+4. Governance Interview Questionnaire
+5. Governance Workpaper Index
+6. Individual Governance Workpapers
+7. Governance Reporting
+8. Enterprise Risk Management
 
 ---
 
-# Reviewer Guide
+## Navigation
 
-Recommended order:
-
-1. Select an assessment domain.
-2. Review the planning documents.
-3. Review the technical workpapers.
-4. Review findings.
-5. Review risks.
-6. Review recommendations.
-7. Review executive reporting.
+| Destination | Link |
+|---|---|
+| Previous Section | [02 – Assessment Operations](../02-assessment-operations/README.md) |
+| Portfolio Home | [Enterprise GRC Assessment Portfolio](../README.md) |
+| Governance Workpapers | [Open Workpaper Index](governance-workpapers/README.md) |
+| Next Section | [04 – Governance Reporting](../04-governance-reporting/README.md) |
 
 ---
 
-# Navigation
-
-⬅ Previous
-
-[02 – Assessment Operations](../02-assessment-operations/README.md)
-
-🏠 Home
-
-[Enterprise GRC Portfolio](../README.md)
+**Phase 03 – Governance Domain Assessment**
