@@ -47,7 +47,7 @@ Each assessment domain includes planning documentation, technical control testin
 | 06 | Asset Management | [06-asset-management](06-asset-management/) |
 | 07 | Identity & Access Management | [07-identity-and-access-management](07-identity-and-access-management/) |
 | 08 | Security Monitoring & Incident Response | [08-security-monitoring-and-incident-response](08-security-monitoring-and-incident-response/) |
-| 09 | Vulnerability & Patch Management | [09-vulnerability-and-patch-management](09-vulnerability-and-patch-management/) |
+| 09 | Vulnerability & Patch Management | [09-vulnerability-and-patch-management](09-vulnerability-and-patch-management/README.md) |
 | 10 | Configuration & Change Management | [10-configuration-and-change-management](10-configuration-and-change-management/README.md) |
 | 11 | Business Continuity & Disaster Recovery | [11-business-continuity-and-disaster-recovery](11-business-continuity-and-disaster-recovery/README.md) |
 | 12 | Physical & Environmental Security | [12-physical-and-environmental-security](12-physical-and-environmental-security/README.md) |
