@@ -1,334 +1,262 @@
-# Enterprise HIPAA Cybersecurity Assessment Playbook
+# Enterprise HIPAA Cybersecurity Governance, Risk & Compliance (GRC) Assessment Portfolio
 
-## Enterprise Governance • Risk • Compliance • Cybersecurity Assessment Methodology
+<div align="center">
 
----
+## Stephen Winfield
 
-# Purpose
-
-The Enterprise HIPAA Cybersecurity Assessment Playbook is a structured, end-to-end assessment methodology designed to evaluate the cybersecurity posture of healthcare organizations.
-
-This repository guides assessors through the complete lifecycle of an enterprise cybersecurity assessment—from initial client engagement through executive reporting and remediation planning.
-
-The methodology is aligned with recognized industry standards and demonstrates a repeatable process for assessing governance, risk management, administrative safeguards, technical safeguards, operational security, regulatory compliance, and organizational resilience.
+**Cybersecurity Governance • Risk Management • Compliance • Program Management • Enterprise Security Assessments**
 
 ---
 
-# Intended Audience
+**Frameworks Demonstrated**
 
-This playbook is designed for:
-
-- Governance, Risk, and Compliance (GRC) Analysts
-- Cybersecurity Consultants
-- Internal Auditors
-- Security Assessors
-- HIPAA Compliance Professionals
-- Security Managers
-- Cybersecurity Directors
-- Chief Information Security Officers (CISOs)
-- Healthcare IT Leadership
+NIST CSF 2.0 • NIST SP 800-53 Rev. 5 • HIPAA • CIS Controls v8 • ISO/IEC 27001 • NIST AI RMF • Security Governance • Enterprise Risk Management
 
 ---
 
-# Assessment Objectives
+**Portfolio Statistics**
 
-The objectives of this assessment methodology are to:
+| Assessment Domains | Technical Workpapers | Executive Reports | Executive Dashboards |
+|:-----------------:|:--------------------:|:----------------:|:-------------------:|
+| **19** | **285** | **114** | **19** |
 
-- Evaluate enterprise cybersecurity governance.
-- Assess HIPAA Security Rule compliance.
-- Identify cybersecurity risks.
-- Evaluate administrative, technical, and physical safeguards.
-- Assess security control effectiveness.
-- Validate regulatory compliance.
-- Measure cybersecurity maturity.
-- Prioritize remediation activities.
-- Support executive decision-making.
-- Improve organizational resilience.
+</div>
 
 ---
 
-# Framework Alignment
+# Portfolio Overview
 
-This playbook aligns with:
+This repository demonstrates how I perform enterprise Governance, Risk, and Compliance (GRC) assessments for large organizations using industry-recognized cybersecurity frameworks.
 
-- HIPAA Security Rule
-- HIPAA Privacy Rule
-- NIST Cybersecurity Framework (CSF) 2.0
-- NIST SP 800-53 Revision 5
-- NIST SP 800-30 (Risk Assessment)
-- NIST SP 800-37 (Risk Management Framework)
-- NIST SP 800-61 (Incident Response)
-- NIST SP 800-207 (Zero Trust Architecture)
-- NIST AI Risk Management Framework
-- CIS Controls v8
-- ISO/IEC 27001
-- ISO/IEC 27002
-- ISO/IEC 27005
-- HHS Cybersecurity Performance Goals
-- SOC 2 Trust Services Criteria
+The repository simulates a complete consulting engagement for **Magnolia Regional Medical Center**, a fictional healthcare organization created for professional portfolio purposes.
+
+Each assessment domain includes planning documentation, technical control testing, executive reporting, risk analysis, remediation planning, evidence traceability, and executive dashboards.
+
+---
+
+# Assessment Domains
+
+| Phase | Assessment Area | Folder |
+|:---:|----------------------------|--------------------------------|
+| 00 | Start Here | [00-start-here](00-start-here/) |
+| 01 | Client Engagement | [01-client-engagement](01-client-engagement/) |
+| 02 | Assessment Operations | [02-assessment-operations](02-assessment-operations/) |
+| 03 | Domain Assessments | [03-domain-assessments](03-domain-assessments/) |
+| 04 | Governance Reporting | [04-governance-reporting](04-governance-reporting/) |
+| 05 | Enterprise Risk Management | [05-enterprise-risk-management](05-enterprise-risk-management/) |
+| 06 | Asset Management | [06-asset-management](06-asset-management/) |
+| 07 | Identity & Access Management | [07-identity-and-access-management](07-identity-and-access-management/) |
+| 08 | Security Monitoring & Incident Response | [08-security-monitoring-and-incident-response](08-security-monitoring-and-incident-response/) |
+| 09 | Vulnerability & Patch Management | [09-vulnerability-and-patch-management](09-vulnerability-and-patch-management/) |
+| 10 | Configuration & Change Management | [10-configuration-and-change-management](10-configuration-and-change-management/) |
+| 11 | Business Continuity & Disaster Recovery | [11-business-continuity-and-disaster-recovery](11-business-continuity-and-disaster-recovery/) |
+| 12 | Physical & Environmental Security | [12-physical-and-environmental-security](12-physical-and-environmental-security/) |
+| 13 | Cloud Security | [13-cloud-security](13-cloud-security/) |
+| 14 | Application Security | [14-application-security](14-application-security/) |
+| 15 | Privacy & Regulatory Compliance | [15-privacy-and-regulatory-compliance](15-privacy-and-regulatory-compliance/) |
+| 16 | Incident Response & Crisis Management | [16-incident-response-and-crisis-management](16-incident-response-and-crisis-management/) |
+| 17 | Enterprise Architecture & Network Security | [17-enterprise-architecture-and-network-security](17-enterprise-architecture-and-network-security/) |
+| 18 | Security Metrics & Governance | [18-security-metrics-and-governance](18-security-metrics-and-governance/) |
+| 19 | AI Governance & Emerging Technology | [19-ai-governance-and-emerging-technology](19-ai-governance-and-emerging-technology/) |
 
 ---
 
 # Assessment Methodology
 
-The assessment follows six structured phases.
-
-```
-Phase 1
-Orientation
-
-↓
-
-Phase 2
+```text
 Client Engagement
-
-↓
-
-Phase 3
+        │
+        ▼
 Assessment Planning
-
-↓
-
-Phase 4
-Domain Assessments
-
-↓
-
-Phase 5
-Risk Analysis & Remediation
-
-↓
-
-Phase 6
-Executive Reporting & Closeout
+        │
+        ▼
+Evidence Collection
+        │
+        ▼
+Stakeholder Interviews
+        │
+        ▼
+Technical Control Assessment
+        │
+        ▼
+Risk Analysis
+        │
+        ▼
+Executive Reporting
+        │
+        ▼
+Recommendations
+        │
+        ▼
+Plan of Action & Milestones (POA&M)
+        │
+        ▼
+Executive Dashboard
 ```
 
-Every assessment activity builds upon the previous phase to create a complete picture of the organization's cybersecurity posture.
+---
+
+# Deliverables Included in Every Domain
+
+Every assessment domain contains:
+
+### Planning
+
+- Assessment Scope
+- Objectives
+- Evidence Request List
+- Interview Questionnaires
+- Interview Summary
+
+### Technical Assessment
+
+- 15 Technical Workpapers
+- Control Objectives
+- Framework Mapping
+- Evidence Requirements
+- Testing Procedures
+- Sample Validation
+- Risk Assessment
+- Quality Assurance Review
+
+### Executive Reporting
+
+- Findings Register
+- Risk Register
+- Recommendations Register
+- POA&M
+- Executive Summary
+- Executive Scorecard
+
+### Supporting Artifacts
+
+- Control Matrix
+- Evidence Traceability Matrix
+- Executive Dashboard
+- README
+- CHANGELOG
+
+---
+
+# Framework Coverage
+
+| Framework | Purpose |
+|-----------|---------|
+| NIST Cybersecurity Framework 2.0 | Enterprise Cybersecurity Governance |
+| NIST SP 800-53 Rev.5 | Security & Privacy Controls |
+| HIPAA Security Rule | Healthcare Security |
+| HIPAA Privacy Rule | Healthcare Privacy |
+| CIS Controls v8 | Cybersecurity Best Practices |
+| ISO/IEC 27001 | Information Security Management |
+| NIST AI RMF | Artificial Intelligence Governance |
+
+---
+
+# Skills Demonstrated
+
+- Governance, Risk & Compliance (GRC)
+- Cybersecurity Assessments
+- Enterprise Risk Management
+- Security Governance
+- NIST CSF Assessments
+- HIPAA Assessments
+- Cloud Security Governance
+- Identity & Access Management
+- Incident Response
+- Business Continuity
+- Disaster Recovery
+- Executive Reporting
+- Board-Level Reporting
+- Risk Register Development
+- POA&M Development
+- Executive Dashboards
+- Security Metrics
+- AI Governance
+- Vendor Risk Management
 
 ---
 
 # Repository Structure
 
-```
-00 Start Here
-
-01 Client Engagement
-
-02 Assessment Planning
-
-03 Enterprise Governance
-
-04 Enterprise Risk Management
-
-05 Asset Management
-
-06 Data Protection & Privacy
-
-07 Identity & Access Management
-
-08 Workforce Security & Awareness
-
-09 Vulnerability & Patch Management
-
-10 Secure Configuration Management
-
-11 Network Security
-
-12 Endpoint Security
-
-13 Cloud Security
-
-14 Application Security & DevSecOps
-
-15 Security Operations & Monitoring
-
-16 Incident Response
-
-17 Third-Party Risk Management
-
-18 Medical Device Security
-
-19 Business Continuity & Disaster Recovery
-
-20 Physical Security & Media Protection
-
-21 HIPAA Security Rule Assessment
-
-22 Audit Controls & Evidence Management
-
-23 AI Governance & Security
-
-24 Zero Trust Assessment
-
-25 Security Architecture
-
-26 Cybersecurity Program Management
-
-27 Consolidated Findings & Gap Analysis
-
-28 Risk Treatment & Remediation
-
-29 Executive & Board Reporting
-
-30 Appendices, Templates & References
+```text
+Enterprise-GRC-Assessment
+│
+├── 00-start-here
+├── 01-client-engagement
+├── 02-assessment-operations
+├── 03-domain-assessments
+├── 04-governance-reporting
+├── 05-enterprise-risk-management
+├── 06-asset-management
+├── 07-identity-and-access-management
+├── 08-security-monitoring-and-incident-response
+├── 09-vulnerability-and-patch-management
+├── 10-configuration-and-change-management
+├── 11-business-continuity-and-disaster-recovery
+├── 12-physical-and-environmental-security
+├── 13-cloud-security
+├── 14-application-security
+├── 15-privacy-and-regulatory-compliance
+├── 16-incident-response-and-crisis-management
+├── 17-enterprise-architecture-and-network-security
+├── 18-security-metrics-and-governance
+└── 19-ai-governance-and-emerging-technology
 ```
 
 ---
 
-# Standard Assessment Workflow
+# Reviewer Guide
 
-Each assessment domain follows the same repeatable process.
+For the best review experience:
 
-```
-Domain Overview
-
-↓
-
-Assessment Objectives
-
-↓
-
-Assessment Scope
-
-↓
-
-Framework Mapping
-
-↓
-
-Policy Review
-
-↓
-
-Evidence Collection
-
-↓
-
-Stakeholder Interviews
-
-↓
-
-Assessment Checklist
-
-↓
-
-Control Testing
-
-↓
-
-Assessment Results
-
-↓
-
-Findings Register
-
-↓
-
-Risk Register
-
-↓
-
-Recommendations
-
-↓
-
-Corrective Action Plan
-
-↓
-
-KPI Dashboard
-
-↓
-
-KRI Dashboard
-
-↓
-
-Executive Summary
-```
-
-This standardized approach ensures every assessment is performed consistently regardless of the domain being evaluated.
+1. Read the Portfolio Overview.
+2. Open any assessment domain.
+3. Review the Planning Documents.
+4. Review the Technical Workpapers.
+5. Review the Findings Register.
+6. Review the Risk Register.
+7. Review the Recommendations.
+8. Review the Executive Summary.
+9. Open the Executive Dashboard.
 
 ---
 
-# Assessment Deliverables
+# Disclaimer
 
-Upon completion, the assessment produces:
+This repository is a fictional enterprise cybersecurity assessment portfolio created for professional demonstration purposes.
 
-- Executive Assessment Report
-- Domain Assessment Reports
-- Enterprise Risk Register
-- Findings Register
-- Gap Analysis
-- Corrective Action Plan
-- Plan of Action & Milestones (POA&M)
-- KPI Dashboards
-- KRI Dashboards
-- Executive Scorecards
-- Board Presentation
-- Strategic Cybersecurity Roadmap
+Magnolia Regional Medical Center is a fictional organization.
+
+No confidential, proprietary, or customer information is contained within this repository.
 
 ---
 
-# Repository Navigation
+# About the Author
 
-If you are new to this repository, begin here:
+## Stephen Winfield
 
-```
-README
+Senior Program Manager | Governance, Risk & Compliance | Cybersecurity
 
-↓
+### Certifications
 
-00-start-here
+- Project Management Professional (PMP)
+- Certified ScrumMaster (CSM)
+- Certified Scrum Product Owner (CSPO)
+- SAFe Scrum Master (SSM)
+- AWS Certified
+- Microsoft Azure Certified
 
-↓
+### Professional Focus
 
-01-client-engagement
-
-↓
-
-02-assessment-planning
-
-↓
-
-03-enterprise-governance
-
-Continue sequentially through each assessment domain until the engagement concludes with Executive Reporting.
-```
-
-Do not skip phases. Each phase produces inputs required by the next phase.
+- Enterprise Cybersecurity Governance
+- GRC Program Management
+- Healthcare Security
+- Financial Services
+- Government
+- Cloud Security
+- Executive Reporting
+- AI Governance
 
 ---
 
-# Guiding Principles
-
-This assessment methodology is based on the following principles:
-
-- Risk-Based Decision Making
-- Business Alignment
-- Evidence-Based Assessments
-- Repeatable Methodology
-- Regulatory Compliance
-- Continuous Improvement
-- Executive Transparency
-- Cyber Resilience
-
----
-
-# About This Repository
-
-This repository is intended for educational, portfolio, and consulting demonstration purposes.
-
-Magnolia Regional Medical Center is a fictional healthcare organization created to demonstrate enterprise Governance, Risk, and Compliance (GRC) assessment methodologies.
-
----
-
-# Repository Status
-
-| Field | Value |
-|--------|-------|
-| Repository Status | Active |
-| Assessment Type | Enterprise HIPAA Cybersecurity Assessment |
-| Assessment Methodology | Enterprise GRC Assessment Playbook |
-| Version | 2.0 |
-| Last Updated | YYYY-MM-DD |
+⭐ **If you found this portfolio useful, please consider starring the repository.**
