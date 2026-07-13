@@ -41,12 +41,12 @@ Each assessment domain includes planning documentation, technical control testin
 | 00 | Start Here | [00-start-here](00-start-here/00-README.md) |
 | 01 | Client Engagement | [01-client-engagement](01-client-engagement/00-README.md) |
 | 02 | Assessment Operations | [02-assessment-operations](02-assessment-operations/00-README.md) |
-| 03 | Domain Assessments | [03-domain-assessments](03-domain-assessments/) |
-| 04 | Governance Reporting | [04-governance-reporting](04-governance-reporting/) |
-| 05 | Enterprise Risk Management | [05-enterprise-risk-management](05-enterprise-risk-management/) |
-| 06 | Asset Management | [06-asset-management](06-asset-management/) |
-| 07 | Identity & Access Management | [07-identity-and-access-management](07-identity-and-access-management/) |
-| 08 | Security Monitoring & Incident Response | [08-security-monitoring-and-incident-response](08-security-monitoring-and-incident-response/) |
+| 03 | Domain Assessments | [03-domain-assessments](03-domain-assessments/README.md) |
+| 04 | Governance Reporting | [04-governance-reporting](04-governance-reporting/README.md) |
+| 05 | Enterprise Risk Management | [05-enterprise-risk-management](05-enterprise-risk-management/README.md) |
+| 06 | Asset Management | [06-asset-management](06-asset-management/README.md) |
+| 07 | Identity & Access Management | [07-identity-and-access-management](07-identity-and-access-management/README.md) |
+| 08 | Security Monitoring & Incident Response | [08-security-monitoring-and-incident-response](08-security-monitoring-and-incident-response/README.md) |
 | 09 | Vulnerability & Patch Management | [09-vulnerability-and-patch-management](09-vulnerability-and-patch-management/README.md) |
 | 10 | Configuration & Change Management | [10-configuration-and-change-management](10-configuration-and-change-management/README.md) |
 | 11 | Business Continuity & Disaster Recovery | [11-business-continuity-and-disaster-recovery](11-business-continuity-and-disaster-recovery/README.md) |
