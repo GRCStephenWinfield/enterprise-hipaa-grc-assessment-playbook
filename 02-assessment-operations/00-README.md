@@ -1,158 +1,223 @@
-# Phase 3 — Assessment Operations
+# 02 – Assessment Operations
 
-# Assessment Operations Overview
+> **Enterprise Cybersecurity Governance, Risk & Compliance (GRC) Assessment Portfolio**
 
-| Field | Value |
-|--------|-------|
-| Assessment Phase | Phase 3 – Assessment Operations |
-| Folder | 02-assessment-operations |
-| Owner | Lead Assessor |
-| Status | Approved |
-| Version | 1.0 |
-| Last Updated | YYYY-MM-DD |
+The Assessment Operations phase establishes the standardized methodologies, procedures, quality controls, and operational processes used throughout the cybersecurity assessment.
+
+This phase ensures every assessment activity is performed consistently, repeatably, and in accordance with industry best practices and organizational quality standards.
 
 ---
 
 # Purpose
 
-The Assessment Operations phase serves as the operational command center for the Enterprise HIPAA Cybersecurity Assessment.
+The Assessment Operations phase defines how the assessment will be executed from planning through final reporting.
 
-Following executive approval, the assessment team transitions from engagement setup to operational execution. This phase establishes the plans, schedules, methodologies, registers, quality controls, and management processes required to conduct a consistent, evidence-based assessment.
+This documentation establishes:
 
-All subsequent technical and governance assessments rely on the operational standards established during this phase.
+- Assessment planning methodology
+- Project scheduling
+- Evidence collection procedures
+- Interview management
+- Technical testing standards
+- Risk scoring methodology
+- Findings management
+- Quality assurance
+- Change control
+- Milestone tracking
 
----
-
-# Phase Objectives
-
-Upon completion of this phase, the assessment team will have:
-
-- Developed the Master Assessment Plan
-- Established the project schedule
-- Issued the Evidence Request Register
-- Scheduled stakeholder interviews
-- Defined control-testing procedures
-- Established risk-scoring methodology
-- Defined cybersecurity maturity scoring
-- Established workpaper standards
-- Implemented quality assurance procedures
-- Created project management registers
-- Established executive reporting cadence
+The procedures documented within this phase are applied consistently across every assessment domain.
 
 ---
 
-# Phase Dashboard
+# Assessment Operations Workflow
 
-| Metric | Estimate |
-|---------|----------|
-| Estimated Duration | 2–3 Weeks |
-| Planning Meetings | 8 |
-| Interview Scheduling Sessions | 4 |
-| Initial Evidence Requests | 75–150 |
-| Deliverables Produced | 20+ |
-| Overall Complexity | High |
-
----
-
-# Entry Criteria
-
-Before beginning this phase:
-
-✅ Phase 1 – Orientation completed
-
-✅ Phase 2 – Client Engagement completed
-
-✅ Executive Approval received
-
----
-
-# Activities
-
-Complete the following documents in order.
-
-| Step | Document |
-|------|----------|
-| 02.00 | Assessment Operations Phase Charter |
-| 02.01 | Master Assessment Plan |
-| 02.02 | Assessment Schedule |
-| 02.03 | Master Evidence Request Register |
-| 02.04 | Interview Schedule |
-| 02.05 | Interview Question Library |
-| 02.06 | Control Testing Methodology |
-| 02.07 | Evidence Evaluation Standard |
-| 02.08 | Sampling Methodology |
-| 02.09 | Risk Scoring Methodology |
-| 02.10 | Maturity Scoring Methodology |
-| 02.11 | Workpaper Standards |
-| 02.12 | Quality Assurance Plan |
-| 02.13 | Issue Escalation Procedure |
-| 02.14 | Decision Log |
-| 02.15 | Action Item Register |
-| 02.16 | Deliverable Tracker |
-| 02.17 | Milestone Tracker |
-| 02.18 | Weekly Executive Status Report Template |
-| 02.19 | Daily Assessment Status Report |
-| 02.20 | Phase Approval |
+```text
+Master Assessment Plan
+          │
+          ▼
+Assessment Schedule
+          │
+          ▼
+Evidence Collection
+          │
+          ▼
+Stakeholder Interviews
+          │
+          ▼
+Control Testing
+          │
+          ▼
+Evidence Evaluation
+          │
+          ▼
+Risk Scoring
+          │
+          ▼
+Findings Management
+          │
+          ▼
+Quality Assurance
+          │
+          ▼
+Lessons Learned
+```
 
 ---
 
-# Expected Deliverables
+# Assessment Operations Documents
 
-Upon completion of this phase, the engagement will have:
+## Assessment Planning
+
+| Document | Purpose |
+|----------|---------|
+| [Assessment Operations Phase Charter](02.00-assessment-operations-phase-charter.md) | Defines the objectives, governance, and deliverables for the Assessment Operations phase. |
+| [Master Assessment Plan](02.01-master-assessment-plan.md) | Documents the overall assessment strategy, execution plan, and project management approach. |
+| [Assessment Schedule](02.02-assessment-schedule.md) | Establishes the assessment timeline, milestones, and major activities. |
+
+---
+
+## Evidence Collection
+
+| Document | Purpose |
+|----------|---------|
+| [Master Evidence Request List](02.03-master-evidence-request-list.md) | Identifies all documentation and evidence required during the assessment. |
+| [Interview Schedule](02.04-interview-schedule.md) | Defines interview participants, schedules, and meeting logistics. |
+| [Interview Question Library](02.05-interview-question-library.md) | Provides standardized interview questions for stakeholders and control owners. |
+
+---
+
+## Technical Assessment Methodology
+
+| Document | Purpose |
+|----------|---------|
+| [Control Testing Methodology](02.06-control-testing-methodology.md) | Defines the standardized process for evaluating security controls. |
+| [Evidence Evaluation Standards](02.07-evidence-evaluation-standards.md) | Establishes criteria for validating assessment evidence. |
+| [Sampling Methodology](02.08-sampling-methodology.md) | Documents statistical and judgmental sampling procedures. |
+| [Risk Scoring Methodology](02.09-risk-scoring-methodology.md) | Defines the process used to determine inherent and residual risk ratings. |
+
+---
+
+## Findings Management
+
+| Document | Purpose |
+|----------|---------|
+| [Findings Management Process](02.10-findings-management-process.md) | Describes how findings are documented, reviewed, and communicated. |
+| [Workpaper Standards](02.11-workpaper-standards.md) | Defines documentation standards for technical workpapers and supporting evidence. |
+
+---
+
+## Quality Management
+
+| Document | Purpose |
+|----------|---------|
+| [Quality Assurance & Peer Review](02.12-quality-assurance-peer-review.md) | Defines quality review procedures for assessment documentation. |
+| [Issue Escalation Process](02.13-issue-escalation-process.md) | Establishes procedures for escalating significant assessment issues. |
+| [Assessment Communications Plan](02.14-assessment-communications-plan.md) | Documents communication channels, reporting cadence, and stakeholder notifications. |
+| [Change Control Procedures](02.15-change-control-procedures.md) | Defines how assessment scope and documentation changes are managed. |
+| [Lessons Learned Methodology](02.16-lessons-learned-methodology.md) | Documents continuous improvement activities after assessment completion. |
+| [Milestone Tracking Register](02.17-milestone-tracking-register.md) | Tracks assessment progress against project milestones. |
+
+---
+
+# Deliverables Produced
+
+Upon completion of the Assessment Operations phase, the following have been established:
 
 - Master Assessment Plan
-- Project Schedule
-- Evidence Request Register
-- Interview Schedule
-- Interview Library
-- Control Testing Standard
-- Sampling Standard
-- Risk Rating Methodology
-- Maturity Model
-- QA Plan
-- Workpaper Standards
-- Operational Registers
-- Executive Reporting Templates
+- Assessment Schedule
+- Evidence Collection Process
+- Interview Management Process
+- Technical Testing Standards
+- Risk Scoring Methodology
+- Findings Management Procedures
+- Documentation Standards
+- Quality Assurance Process
+- Communications Management
+- Change Control Process
+- Lessons Learned Process
+- Milestone Tracking
+
+These operational procedures provide the foundation for every domain assessment performed during the engagement.
 
 ---
 
-# Exit Criteria
+# Reviewer Guide
 
-This phase is complete when:
+For the best understanding of the assessment methodology, review the documents in the following order:
 
-- Assessment activities are fully planned.
-- Evidence requests have been issued.
-- Interviews are scheduled.
-- Assessment methodologies are approved.
-- Operational standards are established.
-- The assessment team is authorized to begin domain assessments.
+1. Assessment Operations Phase Charter
+2. Master Assessment Plan
+3. Assessment Schedule
+4. Master Evidence Request List
+5. Interview Schedule
+6. Interview Question Library
+7. Control Testing Methodology
+8. Evidence Evaluation Standards
+9. Sampling Methodology
+10. Risk Scoring Methodology
+11. Findings Management Process
+12. Workpaper Standards
+13. Quality Assurance & Peer Review
+14. Issue Escalation Process
+15. Assessment Communications Plan
+16. Change Control Procedures
+17. Lessons Learned Methodology
+18. Milestone Tracking Register
 
 ---
 
-# Next Phase
+# Assessment Lifecycle
 
-After completing Assessment Operations, proceed to:
-
-**Phase 4 – Enterprise Governance Assessment**
+```text
+Client Engagement
+        │
+        ▼
+Assessment Operations
+        │
+        ▼
+Domain Assessments
+        │
+        ▼
+Executive Reporting
+        │
+        ▼
+Continuous Improvement
+```
 
 ---
 
-## Navigation
+# Navigation
 
-### Previous
+⬅ **Previous**
 
-**01.16 – Executive Approval**
+[01 – Client Engagement](../01-client-engagement/README.md)
 
-### Current
+🏠 **Portfolio Home**
 
-**Phase 3 – Assessment Operations**
+[Enterprise GRC Assessment Portfolio](../README.md)
 
-### Next
+➡ **Next**
 
-**02.00 – Assessment Operations Phase Charter**
+[03 – Domain Assessments](../03-domain-assessments/README.md)
 
-### Assessment Progress
+---
 
-**Phase 3**
+# Phase Summary
 
-**0 of 22 Documents Complete**
+| Metric | Status |
+|----------|--------|
+| Assessment Planning | ✅ Complete |
+| Assessment Methodology | ✅ Complete |
+| Evidence Collection Process | ✅ Complete |
+| Interview Management | ✅ Complete |
+| Technical Testing Standards | ✅ Complete |
+| Risk Scoring Methodology | ✅ Complete |
+| Quality Assurance Process | ✅ Complete |
+| Milestone Tracking | ✅ Complete |
+| Ready for Domain Assessments | ✅ Yes |
+
+---
+
+**Enterprise Cybersecurity Governance, Risk & Compliance Assessment Portfolio**
+
+**Phase 02 – Assessment Operations**
