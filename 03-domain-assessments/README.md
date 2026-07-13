@@ -105,7 +105,7 @@ The detailed workpapers evaluate:
 
 | Destination | Link |
 |---|---|
-| Previous Section | [02 – Assessment Operations](../02-assessment-operations/README.md) |
+| Previous Section | [02 – Assessment Operations](https://github.com/GRCStephenWinfield/enterprise-hipaa-grc-assessment-playbook/blob/main/02-assessment-operations/00-README.md) |
 | Portfolio Home | [Enterprise GRC Assessment Portfolio](../README.md) |
 | Governance Workpapers | [Open Workpaper Index](governance-workpapers/README.md) |
 | Next Section | [04 – Governance Reporting](../04-governance-reporting/README.md) |
